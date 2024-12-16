@@ -1,4 +1,4 @@
-# MMDT_Projects
+# Project Submission Template
 
 This template repository is designed for students to use as a base for organizing and submitting their project work. The goal is to ensure a consistent structure that makes it easy to review code, datasets, and results. Students will be required to follow the repository structure and include their code, data, and any other relevant materials in the appropriate directories. The template encourages good organization practices and clear documentation.
 ```
