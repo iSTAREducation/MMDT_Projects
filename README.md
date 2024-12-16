@@ -51,14 +51,14 @@ Project-Template/
  
 ---
 
-## How to Submit Your Homework
+## How to Submit Your Project
 
 ### Using VSC and GitHub
 
-1. **Click the Homework Folder**: [Homework Folder Link](https://classroom.github.com/a/gnoG7Bjh)  
+1. **Click the Project Folder**: [Project Folder Link](https://classroom.github.com/a/gnoG7Bjh)  
 2. **Access Your Individual Folder**: After clicking the link, you should be redirected to your individual homework folder. Make sure you’re logged into your account if prompted.  
    Example (for Ben): [Ben's Folder](https://github.com/iSTAREducation/cmpt243-assignemnts-Benimo12.git)
-3. **Open the Homework Folder in VSC**:  
+3. **Open the Project Folder in VSC**:  
    - In the VSC Explorer sidebar, right-click in the folder and select `Paste` to add the files/codes and your work.
 4. **Save Your Changes**: Use `Ctrl + S` (Windows) or `Cmd + S` (Mac).
 5. **Push Your Changes**: Use the `Source Control` panel in VSC or push using the terminal.
@@ -67,7 +67,7 @@ Project-Template/
 
 ### Using a Browser
 
-1. **Click the Homework Folder**: [Homework Folder Link](https://classroom.github.com/a/gnoG7Bjh)  
+1. **Click the Project Folder**: [Project Folder Link](https://classroom.github.com/a/gnoG7Bjh)  
 2. **Access Your Individual Folder**: After clicking the link, you should be redirected to your individual homework folder. Make sure you’re logged into your account if prompted.  
    Example (for Ben): [Ben's Folder](https://github.com/iSTAREducation/cmpt243-assignemnts-Benimo12.git)
 3. **Add Files**:  
